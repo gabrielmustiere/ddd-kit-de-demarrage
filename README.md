@@ -332,23 +332,19 @@ Comme point de départ, nous recommandons le [Aggregate Design Canvas](https://g
 
 - Les personnes qui conçoivent, construisent et testent les logiciels
 
+## Traduction
+
+Ce repository n'est qu'un travail de traduction du repository suivant [ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process)
+
 ## Contributeurs
 
-Merci à tous [contributeurs actuels et futurs](https://github.com/ddd-crew/ddd-starter-modelling-process/graphs/contributors) et aux personnes suivantes qui ont toutes contribué au kit de démarrage de DDD :
+Merci à tous les [contributeurs actuels et futurs](https://github.com/ddd-crew/ddd-starter-modelling-process/graphs/contributors) et aux personnes suivantes qui ont toutes contribué au kit de démarrage de DDD :
 
 - [Ciaran McNulty](https://github.com/ciaranmcnulty)
 - [Eduardo da Silva](https://github.com/emgsilva)
 - [Gien Verschatse](https://twitter.com/selketjah)
 - [James Morcom](https://twitter.com/morcs)
 - [Maxime Sanglan-Charlier](https://twitter.com/__MaxS__)
-
-## Contributions et feedback
-
-Le kit de démarrage Domain-Driven Design est disponible gratuitement pour que vous puissiez l'utiliser. En outre, vos commentaires et idées sont les bienvenus pour améliorer la technique ou créer des versions alternatives.
-
-Si vous avez des questions, vous pouvez nous envoyer un message ou ouvrir un [Issue] (https://github.com/ddd-crew/ddd-starter-modelling-process/issues/new/choose).
-
-N'hésitez pas non plus à nous envoyer une demande de modification (pull request) avec vos exemples ou rapports d'expérience.
 
 [![CC BY 4.0][cc-by-shield]][cc-by]
 
