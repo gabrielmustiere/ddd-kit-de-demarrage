@@ -1,3 +1,5 @@
+> **Attention** : Ce dépot n'est qu'un travail de traduction du dépot suivant [ddd-starter-modelling-process](https://github.com/ddd-crew/ddd-starter-modelling-process), il n'engage que moi et n'est pas à l'initiative de l'organisation [ddd-crew](https://github.com/ddd-crew).
+
 # Domain-Driven Design Kit de démarrage
 
 Ce processus vous fournit un guide étape par étape pour l'apprentissage et l'application pratique de chaque aspect Domain Driven Design (DDD), de l'exploration du modèle d'une organisation au développement d'un modèle domaine.
@@ -36,7 +38,7 @@ __Navigation:__
   * [7. Définir](#7-dfinir)
   * [8. Coder](#8-coder)
 * [Contributeur](#contributeurs)
-* [Contributions et feedback](#contributions-et-feedback)
+* [Traduction](#traduction)
 
 ## Quand utilisaer le kit de démarrage?
 
